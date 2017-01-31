@@ -10,8 +10,7 @@
   ],
   "scripts": {
     "start": "start-runner -p re-start",
-    "prepush": "yarn start prepush",
-    "prepublish": "yarn start build",
+    "prepush": "yarn start lint",
     "semantic-release": "semantic-release pre && npm publish && semantic-release post"
   },
   "repository": {
