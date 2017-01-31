@@ -13,9 +13,12 @@
     "prepush": "yarn start lint",
     "semantic-release": "semantic-release pre && npm publish && semantic-release post"
   },
+  "release": {
+    "verifyConditions": "condition-circle"
+  },
   "repository": {
     "type": "git",
-    "url": "git://github.com/groupby/tslint-config.git"
+    "url": "https://github.com/groupby/tslint-config.git"
   },
   "keywords": [
     "tslint",
