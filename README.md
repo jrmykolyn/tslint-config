@@ -1,5 +1,7 @@
 # GroupBy TSLint Config
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/groupby/tslint-config.svg)](https://greenkeeper.io/)
+
 [![npm](https://img.shields.io/npm/v/tslint-config-groupby.svg?style=flat-square)](https://www.npmjs.com/package/tslint-config-groupby)
 [![build](https://img.shields.io/circleci/project/github/groupby/tslint-config-groupby/master.svg?label=linux&style=flat-square)](https://circleci.com/gh/groupby/tslint-config-groupby)
 [![deps](https://david-dm.org/groupby/tslint-config-groupby.svg?style=flat-square)](https://david-dm.org/groupby/tslint-config-groupby)
