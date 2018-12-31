@@ -23,7 +23,6 @@ module.exports = {
     }],
     forin: true,
     'label-position': true,
-    'label-undefined': true,
     'no-arg': true,
     'no-console': [true, 'log'],
     'no-construct': true,
