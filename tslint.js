@@ -28,7 +28,6 @@ module.exports = {
     'no-construct': true,
     'no-shadowed-variable': true,
     'no-switch-case-fall-through': true,
-    'no-unreachable': true,
     'no-unsafe-finally': true,
     'no-unused-expression': true,
     'no-unused-new': true,
